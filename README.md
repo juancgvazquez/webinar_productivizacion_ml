@@ -4,10 +4,9 @@ https://drive.google.com/file/d/1wVnifROV89qRNAdcX7cu71YTH1qNOd0X/view?usp=shari
 
 y ubicarlo en una carpeta data/raw/ de forma que quede de la siguiente manera:
 
-ar_properties.csv.gz
 
-de forma que quede
 ![Folder structure](https://github.com/juancgvazquez/webinar_productivizacion_ml/blob/master/datastructure.png)
+
 
 1. Productivización mediante Notebooks (carpeta notes-pipelines/notebooks)
     
